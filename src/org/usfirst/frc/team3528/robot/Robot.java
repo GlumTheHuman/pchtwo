@@ -27,6 +27,7 @@ import edu.wpi.first.wpilibj.smartdashboard.SmartDashboard;
  * this system. Use IterativeRobot or Command-Based instead if you're new.
  */
 public class Robot extends SampleRobot {
+	//Always watching
     RobotDrive myRobot;
     Joystick stick;
     final String defaultAuto = "Default";
